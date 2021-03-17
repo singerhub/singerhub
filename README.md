@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singerhub
+- 👋 Hi, I’m @shazha
 - 👀 I’m interested in JAVA PHP
 - 🌱 I’m currently learning  JA
 - 💞️ I’m looking to collaborate on ...
